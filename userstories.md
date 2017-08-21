@@ -9,6 +9,6 @@ Users will be able to input text and generate images in place of strings, for ex
 
 At the Silver level users will have their string randomized and in some cases by replaced by not only images but also be turned into anagrams.
 
-##User Story Gold
+## User Story Gold
 
 At the Gold level users will notice that some words are completely replaced by images for example the word duck is now replaced with an image of a duck instead of individual letters representing the word duck.
