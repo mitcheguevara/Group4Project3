@@ -28,6 +28,6 @@ list.each do |x|
 end
 
 
-Post.create(post: 'testing')
-Post.create(post: 'word')
-Post.create(post: 'postseed')
+Post.create(content: 'testing')
+Post.create(content: 'word')
+Post.create(content: 'postseed')
