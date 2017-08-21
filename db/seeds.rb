@@ -17,7 +17,7 @@ list = flickr.photos.search(:tags => "oneletter", :per_page => '500')
 
 list.each do |x|
    Image.create!(
-   letter: x.title.split('').last.upcase,
+   letter: x.title.split('').last,
    url: "http://farm#{x.farm}.static.flickr.com/#{x.server}/#{x.id}_#{x.secret}_m.jpg",
    title: x.title,
    idname: x.id,
