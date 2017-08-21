@@ -7,8 +7,9 @@ Users will be able to input text and generate images in place of strings, for ex
 
 ## User Story Silver
 
-At the Silver level users will have their string randomized and in some cases by replaced by not only images but also be turned into anagrams.
+At the silver leve users  input will be randomized and users will be able to flip the card and see the solution. 
+
 
 ## User Story Gold
 
-At the Gold level users will notice that some words are completely replaced by images for example the word duck is now replaced with an image of a duck instead of individual letters representing the word duck.
+At the gold level users will be able to solver for the solution and input will be rutned into anagrams. 
