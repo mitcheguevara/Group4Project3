@@ -10,9 +10,10 @@ require 'flickraw'
 FlickRaw.api_key=ENV['API_KEY']
 FlickRaw.shared_secret=ENV['SHARED_SECRET']
 
+Post.destroy_all
 Image.destroy_all
 
-list = flickr.photos.search(:tags => "oneletter")
+list = flickr.photos.search(:tags => "oneletter", :per_page => '500')
 
 list.each do |x|
    Image.create!(
@@ -25,3 +26,8 @@ list.each do |x|
    farm: x.farm
    )
 end
+
+
+Post.create(post: 'testing')
+Post.create(post: 'word')
+Post.create(post: 'postseed')
