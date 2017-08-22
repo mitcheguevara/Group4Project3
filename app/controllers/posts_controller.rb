@@ -24,7 +24,8 @@ end
 def destroy
   @post = Post.find(params[:id])
   @post.destroy
-  render nothing:true
+  # render nothing:true
+  render json: @posts
 end
 
 private
