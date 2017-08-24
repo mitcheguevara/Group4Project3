@@ -7,8 +7,8 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 require 'flickraw'
 
-FlickRaw.api_key='3e25ba1a574a7fceaf58910469c09b55'
-FlickRaw.shared_secret='b3d027e1e3b4b4f5'
+FlickRaw.api_key=ENV['API_KEY']
+FlickRaw.shared_secret=ENV['SECRET_KEY']
 
 Post.destroy_all
 Image.destroy_all
