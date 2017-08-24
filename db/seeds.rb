@@ -30,6 +30,8 @@ end
 space = Image.create(letter: 'space', url: 'http://i.imgur.com/jhs1Rs6.jpg', title: 'space', idname: 'space', secret: 'space', server: 'space', farm: 'space')
 
 
-Post.create(content: 'testing')
-Post.create(content: 'word')
-Post.create(content: 'postseed')
+Post.create(content: 'get me out')
+Post.create(content: 'help')
+Post.create(content: 'i see dead people')
+Post.create(content: 'burn them all')
+Post.create(content: 'im so scared')
