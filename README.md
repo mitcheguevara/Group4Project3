@@ -15,14 +15,14 @@ This typically will be a short list of the features / user stories that you plan
 To provide more detail, you can show how you categorized these features into Bronze (MVP), Silver, and Gold Levels and indicate which features you complete / have yet to complete
 
 ### List of Technologies Used
--Ruby on Rails 
--Angular 
--Java Script
--CSS 
--HTML
--Flickr API (Photos)
--Flickraw gem (to parse data)
--dotenv gem (to be able to hide our secret api key used to access flickr)
+|Ruby on Rails 
+|Angular 
+|Java Script
+|CSS 
+|HTML
+|Flickr API (Photos)
+|Flickraw gem (to parse data)
+|dotenv gem (to be able to hide our secret api key used to access flickr)
 
 ### Installation Instructions / Getting Started
 Fork from both repositories 
