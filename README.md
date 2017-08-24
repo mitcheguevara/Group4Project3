@@ -10,16 +10,16 @@ We all know the struggle of cutting out individual letters from different print 
 This typically will be a short list of the features / user stories that you planned during the development phase of the project
 To provide more detail, you can show how you categorized these features into Bronze (MVP), Silver, and Gold Levels and indicate which features you complete / have yet to complete
 
-Bronze (MVP)
+#### Bronze (MVP)
 1. Users will be able to input text.
 2. Users text will be spliced into indivual letters.
 3. Letters are converted to images.
 4. Images are displayed in the index.
-Silver
+#### Silver
 1. Images will be scrambled on the index.
 2. Users click on images to see solution.
 3. Full CRUB functionality.
-Gold
+#### Gold
 1. Connect to a second API that generates anagrams
 2. Create Users that require logins 
 3. Create a new page function that allow users to have private letters. 
