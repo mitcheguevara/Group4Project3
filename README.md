@@ -1,7 +1,7 @@
 # README
 Ransom Letters 
 ## Description
-What your project is / should be used for
+### What your project is / should be used for
 Randsom Letter is an app designed to create scrambled messages, the look and feel of the messages are very similar in appearance to a ransom letter. 
 What problem(s) your projects solves
 We all 
