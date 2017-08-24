@@ -42,9 +42,9 @@ To provide more detail, you can show how you categorized these features into Bro
 ### Installation Instructions / Getting Started
 In order to replicate this application you will need to fork and clone from both repositories and create your own API Key. At this time our keys are secure because we launched our Rails application on Heroku (Heroku.com). You need to make sure that your angular application is calling on your rails app from Heroku.
 
-Angular- https://github.com/mitcheguevara/Group4Angular-/tree/gh-pages
-Rails- https://github.com/mitcheguevara/Group4Project3
-Create API Key-https://www.flickr.com/services/apps/create/apply/
+#### Angular- https://github.com/mitcheguevara/Group4Angular-/tree/gh-pages
+#### Rails- https://github.com/mitcheguevara/Group4Project3
+#### Create API Key-https://www.flickr.com/services/apps/create/apply/
 
 ### Contribution Guidelines
 If you would like to contribute to this code submit a pull request from your repository. 
