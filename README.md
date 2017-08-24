@@ -23,11 +23,8 @@ To provide more detail, you can show how you categorized these features into Bro
 1. Connect to a second API that generates anagrams
 2. Create Users that require logins 
 3. Create a new page function that allow users to have private letters. 
-Platinum
+#### Platinum
 1. Export randsom letters generated.
-
-
-Users input text which will be replaced by images. These images represent each 
 
 ### List of Technologies Used
 |Ruby on Rails 
