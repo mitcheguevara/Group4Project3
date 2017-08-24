@@ -31,7 +31,8 @@ space = Image.create(letter: 'space', url: 'http://i.imgur.com/jhs1Rs6.jpg', tit
 
 
 Post.create(content: 'get me out')
-Post.create(content: 'help')
 Post.create(content: 'i see dead people')
+Post.create(content: 'all your base are belong to us')
+Post.create(content: 'i know what you did last summer')
 Post.create(content: 'burn them all')
-Post.create(content: 'im so scared')
+Post.create(content: 'i have your api keys')
