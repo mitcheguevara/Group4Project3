@@ -17,12 +17,14 @@ We all know the struggle of cutting out individual letters from different print 
 #### Silver (Current Functionality)
 1. Images will be scrambled on the index.
 2. Users click on images to see solution.
-3. Full CRUB functionality.
+3. Full CRUD functionality.
+
 
 #### Gold
 1. Connect to a second API that generates anagrams
 2. Create Users that require logins 
 3. Create a new page function that allow users to have private letters. 
+4. Ability to type in a guess. 
 
 #### Platinum
 1. Export randsom letters generated.
@@ -35,7 +37,7 @@ We all know the struggle of cutting out individual letters from different print 
 |HTML
 |Flickr API (Photos)
 |Flickraw gem (to parse data)
-|dotenv gem (to be able to hide our secret api key used to access flickr)|
+|dotENV gem (to be able to hide our secret api key used to access flickr)|
 
 ### Installation Instructions / Getting Started
 In order to replicate this application you will need to fork and clone from both repositories and create your own API Key. At this time our keys are secure because we launched our Rails application on Heroku (Heroku.com). You need to make sure that your angular application is calling on your rails app from Heroku.
@@ -49,6 +51,6 @@ If you would like to contribute to this code submit a pull request from your rep
 
 ### Division of Labor 
 
-Colleen - Managed Rails Application, API, and Styling.
-Alex - Managed Angular and linked to Rails.
-Edwin - Managed Github Repository and Heroku. 
+#### Colleen - Managed Rails Application, API, and Styling.
+#### Alex - Managed Angular and linked to Rails.
+#### Edwin - Managed Github Repository and Heroku. 
