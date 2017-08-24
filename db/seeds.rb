@@ -13,6 +13,7 @@ FlickRaw.shared_secret=ENV['SECRET_KEY']
 Post.destroy_all
 Image.destroy_all
 
+
 list = flickr.photos.search(:tags => "oneletter", :per_page => '500')
 
 list.each do |x|
