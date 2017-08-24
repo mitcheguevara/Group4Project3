@@ -53,4 +53,4 @@ If you would like to contribute to this code submit a pull request from your rep
 
 Colleen - Managed Rails Application, API, and Styling.
 Alex - Managed Angular and linked to Rails.
-Mangaged - Github Repository and Heroku. 
+Edwin - Managed Github Repository and Heroku. 
