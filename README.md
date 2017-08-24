@@ -7,8 +7,6 @@ Randsom Letter is an app designed to create scrambled messages, the look and fee
 We all know the struggle of cutting out individual letters from different print media to create a fashionable ransom letter, with this application it is all digitize. This application eliminates the need for scissors and glue. 
 
 ### List of Features / User Stories
-This typically will be a short list of the features / user stories that you planned during the development phase of the project
-To provide more detail, you can show how you categorized these features into Bronze (MVP), Silver, and Gold Levels and indicate which features you complete / have yet to complete
 
 #### Bronze (MVP)
 1. Users will be able to input text.
