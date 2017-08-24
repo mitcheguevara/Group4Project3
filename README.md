@@ -15,20 +15,23 @@ To provide more detail, you can show how you categorized these features into Bro
 2. Users text will be spliced into indivual letters.
 3. Letters are converted to images.
 4. Images are displayed in the index.
-#### Silver
+
+#### Silver (Current Functionality)
 1. Images will be scrambled on the index.
 2. Users click on images to see solution.
 3. Full CRUB functionality.
+
 #### Gold
 1. Connect to a second API that generates anagrams
 2. Create Users that require logins 
 3. Create a new page function that allow users to have private letters. 
+
 #### Platinum
 1. Export randsom letters generated.
 
 ### List of Technologies Used
 |Ruby on Rails 
-|Angular 
+|AngularJS
 |Java Script
 |CSS 
 |HTML
@@ -45,3 +48,9 @@ Create API Key-https://www.flickr.com/services/apps/create/apply/
 
 ### Contribution Guidelines
 If you would like to contribute to this code submit a pull request from your repository. 
+
+### Division of Labor 
+
+Colleen - Managed Rails Application, API, and Styling.
+Alex - Managed Angular and linked to Rails.
+Mangaged - Github Repository and Heroku. 
